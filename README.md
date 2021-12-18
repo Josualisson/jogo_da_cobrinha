@@ -1,2 +1,7 @@
-# jogo_da_cobrinha
-Jogo da cobrinha feito pela aula da DIO
+# jogo da Cobrinha
+## Recriando o jogo da cobrinha através da aula da dio
+#### Tecnologias usadas:
+ - Html
+ - CSS
+ - Javascript
+
